@@ -566,7 +566,7 @@ body {
   position: absolute;
   width: 250px;
   height: 200px;
-  top: 50%;
+  top: 70%;
   left: 50%;
   margin-top: -70px;
   margin-left: -125px;
@@ -684,6 +684,12 @@ body {
   height: 8px;
   border-radius: 50%;
   background-color: #ad030f;
+}
+
+.name {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
 }
 
 .flame {
